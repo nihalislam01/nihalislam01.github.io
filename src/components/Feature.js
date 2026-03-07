@@ -17,6 +17,11 @@ const features = [
         title: "1st Runner Up - HackNsu Season 05",
         description: "Achieved 1st Runner Up position in HackNsu Season 05 where we built a Blockchain-based Land Registry System within 8 hours"
     },
+    {
+        image: "assets/feature3.jpg",
+        title: "Performer of the Month - Hubxpert",
+        description: "I've been recognized as Performer of the Month for the second time at Hubxpert for consistently delivering high-quality work and contributing to the success of multiple projects"
+    },
 ]
 
 const Feature = () => {

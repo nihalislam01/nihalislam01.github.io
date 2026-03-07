@@ -16,7 +16,7 @@ const experience = [
         achievements: [
             "Monitored user data across internal systems and HubSpot CRM, synchronizing cross-platform data such as Monday, Attio to HubSpot.",
             "Designed HubSpot workflows to automate business processes that maintain and optimize CRM operations for the sales representatives.",
-            "Implemented Odoo ERP on Google Cloud Platform (GCP), deploying with NGINX, along with customization and module development.",
+            "Customized HubSpot CRM to meet specific business requirements going beyond native tools, improving user adoption and satisfaction.",
         ],
     },
     { 
