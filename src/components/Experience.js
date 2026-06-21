@@ -14,9 +14,9 @@ const experience = [
         duration: "Jun 2025 - Present", 
         website: "https://www.hubxpert.com",
         achievements: [
-            "Monitored user data across internal systems and HubSpot CRM, synchronizing cross-platform data such as Monday, Attio to HubSpot.",
-            "Designed HubSpot workflows to automate business processes that maintain and optimize CRM operations for the sales representatives.",
-            "Customized HubSpot CRM to meet specific business requirements going beyond native tools, improving user adoption and satisfaction.",
+            "Integrated new software tools such as Netsuite, Shopify, Merchant Accounts, Scripting tools into HubSpot writing efficient custom code that reduces API consumptions over 90%, scaling system architecture for client projects",
+            "Designed system pipeline, configured integration using Make, N8N, and optimized CRM operations for the sales representatives.",
+            "Designed a multi-node AI pipeline to generate efficient reviews based on a given knowledge base, saving hours of work into minutes.",
         ],
     },
     { 
