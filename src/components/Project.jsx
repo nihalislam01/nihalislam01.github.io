@@ -102,7 +102,7 @@ export default function Project() {
                                     y: rawIndex === -1 ? rawIndex * offsetValue : offsetIndex * offsetValue,
                                     scale: distance === 0 ? 1 : (distance === 1 || rawIndex === -1) ? 0.85 : 0.7,
                                 }}>
-                                <Link className="crate repo"  href={repo.link} target="_blank" rel="noopener noreferrer">
+                                <Link className="crate repo" href={repo.link} target="_blank" rel="noopener noreferrer" color="inherit" underline="none">
                                     <i className="fa-regular fa-folder-open"></i>
                                     <Typography className="repo-name" variant="h6" fontWeight="bold">{repo.name}</Typography>
                                     <span className="minus-icon"><i className="fa-solid fa-minus"></i></span>

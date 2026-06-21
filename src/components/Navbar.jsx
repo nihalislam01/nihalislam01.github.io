@@ -37,7 +37,7 @@ export default function Navbar() {
             <Typography className="header">NIHAL</Typography>
             {
                 sections.map(({ title, link }) => (
-                    <Link key={title} href={link} fontSize="12px" className="sections">{title}</Link>
+                    <Link key={title} href={link} fontSize="12px" className="sections" color="inherit" underline="none">{title}</Link>
                 ))
             }
             <Tooltip title={`${darkMode ? "Lumos": "Nox"}`} disableTouchListener>
